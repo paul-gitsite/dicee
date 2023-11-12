@@ -1,0 +1,20 @@
+# Ignore compiled files
+*.o
+*.out
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore .DS_Store files on macOS
+.DS_Store
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore environment-specific files
+.env
